@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:2563eb,70:7c3aed,100:06b6d4&height=220&section=header&text=Muhammad%20Shayan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:2563eb,70:7c3aed,100:06b6d4&height=220&section=header&text=Muhammad%20Shayan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Social Badges -->
 <a href="https://linkedin.com/in/muhammad-shayan-akhlaq-b98872283/" target="_blank">
@@ -21,12 +21,12 @@
 
 <!-- Dynamic Typing SVG -->
 <a href="https://github.com/shayan123-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BS+Artificial+Intelligence+%40+DHA+Suffa+University;Frontend+Developer+%40+DHA+Head+Office;Building+Multi-Agent+AI+Systems+%26+Pipelines;Full-Stack+Web+with+React%2C+Next.js+%26+Node.js;ML+%26+Data+Science+with+Python%2C+Scikit-Learn%2C+Pandas;Competitive+Programmer+%26+Problem+Solver;&font=Fira+Code&center=true&width=650&height=45&color=06B6D4&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=BS+Artificial+Intelligence+%40+DHA+Suffa+University;Frontend+Developer+%40+DHA+Head+Office;Building+Multi-Agent+AI+Systems+%26+Pipelines;Full-Stack+Web+with+React%2C+Next.js+%26+Node.js;ML+%26+Data+Science+with+Python%2C+Scikit-Learn;Competitive+Programmer+%26+Problem+Solver;&font=Fira+Code&center=true&width=650&height=45&color=06B6D4&vCenter=true&size=20" alt="Typing SVG" />
 </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 About Me
 
@@ -51,7 +51,7 @@ me = Developer()
 print(me.connect())
 ```
 
-<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💼 Work Experience
 
@@ -70,7 +70,7 @@ print(me.connect())
     └── Applied algorithmic problem-solving in production software workflows
 ```
 
-<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠️ Technical Arsenal
 
@@ -78,34 +78,34 @@ print(me.connect())
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,mysql&theme=dark" alt="Languages" />
 </p>
 
 ### 🧠 AI, Machine Learning & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-0284C7?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-0284C7?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analysis" />
 </p>
 
 ### 🌐 Frontend & Full-Stack Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,html,css,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,html,css,mongodb&theme=dark" alt="Web Development" />
 </p>
 
 ### ⚙️ Tools, Platforms & Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-  <img src="https://img.shields.io/badge/uv%20Package%20Manager-DE5FE9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/uv%20Package%20Manager-DE5FE9?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🔬 Featured Projects
 
@@ -156,7 +156,7 @@ print(me.connect())
   </tbody>
 </table>
 
-<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📜 Certifications & Achievements
 
@@ -171,22 +171,19 @@ print(me.connect())
 - 🔹 **Introduction to Programming Using Python** · *HackerRank* (Jul 2026)
   - *Core data structures & algorithm problem solving (`ID: 5b5bc29706de`)*
 
-<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan123-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shayan's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan123-svg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shayan123-svg&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shayan123-svg&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shayan123-svg&theme=tokyonight" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayan123-svg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shayan123-svg&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=6" alt="Trophies" />
+<img src="https://streak-stats.demolab.com?user=shayan123-svg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
@@ -195,7 +192,7 @@ print(me.connect())
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
